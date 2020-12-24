@@ -1,0 +1,115 @@
+.post-img{
+    height: 404px;
+    overflow: hidden; 
+    background: rgba(0, 0, 0, 0.7) url('../img/bg.png');
+    background-size: cover;
+    background-blend-mode: darken;
+    position: sticky;
+}
+.post-img img{
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7) url('../img/bg.png');
+    background-size: cover;
+    background-blend-mode: darken;
+    position: sticky;
+
+
+}
+.navigation max-width-1 m-auto{
+    position: sticky;
+}
+
+.nav-left{
+    position: sticky;
+}
+.blog-post-content{
+    /* background-color: rebeccapurple; */
+}
+.blog-post-content h1{
+    text-align: center;
+}
+.blog-post-content p{
+    font-size: 18px; 
+}
+
+.row{
+    display: flex;
+}
+.more-post{
+    flex-direction: column; 
+    align-items: center;
+}
+.blogpost-meta{ 
+    display: flex;
+    justify-content: space-between;
+}
+
+.author-info{
+    margin: 12px 0;
+}
+.author-info div{
+    padding: 4px 0px;
+    font-family: var(--font2);
+}
+.social{
+    padding-right: 53px;
+    align-self: center;
+    cursor: pointer;
+}
+.text{
+    font-style: bold;
+    font-size: large;
+    align-items: center;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.internet{
+    width: 80%
+    
+}    
+
+.internet img{
+    display: flex;
+    max-width: 50px;
+}
+
+.text2{
+    font-size: 1000x;
+    font: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn{
+    padding: 8px 20px;
+    margin: 7px 3px;
+    border: 2px solid white;
+    border-radius: 8px;
+    background: black;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
